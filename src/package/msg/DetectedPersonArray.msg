@@ -1,0 +1,1 @@
+DetectedPerson[] people
